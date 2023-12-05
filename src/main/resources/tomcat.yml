@@ -1,0 +1,8 @@
+# 端口
+server:
+  port: 8080
+  static: /static
+
+# 指定servlet包路径
+servlet:
+  path: example.servlet
